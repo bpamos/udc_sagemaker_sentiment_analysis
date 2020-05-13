@@ -1,4 +1,4 @@
-# udc_sentiment_analysis_web_app
+# udc_sagemaker_sentiment_analysis
 
 # SageMaker Deployment Project
 
